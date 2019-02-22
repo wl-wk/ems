@@ -20,4 +20,5 @@ public interface EmsMapper {
     List<Ems> selectAll();
 
     Ems selectById(Integer id);
+
 }
