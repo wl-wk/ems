@@ -19,5 +19,4 @@ public class Ems implements Serializable {
     private Integer sex;
 
     private String password;
-
 }
